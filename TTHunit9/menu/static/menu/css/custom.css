@@ -1,0 +1,38 @@
+hr {
+    color: lightblue;
+    border-color: lightblue;
+}
+
+h1 {
+    color: lightblue;
+    text-align: center;
+}
+
+h2 {
+    color: lightblue;
+}
+
+a {
+    color: lightblue;
+}
+
+a:hover {
+    color: whitesmoke;
+}
+
+body {
+    background-image: url("shop.png");
+    background-repeat: no-repeat;
+}
+
+p {
+    color: white;
+}
+
+div.col-md-8 {
+    background-color: #422011;
+}
+
+div.date {
+    color: white;
+}
