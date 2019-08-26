@@ -3,16 +3,16 @@
 
 To start server:
 
--pip3 install -r requirements.txt
+- pip3 install -r requirements.txt
 
--python3 manage.py runserver
+- python3 manage.py runserver
 
 
 Django admin login:
 
--username: carson
+- username: carson
 
--pass: carson1
+- pass: carson1
 
 
 This was a pre-created project and i have improved it. 
