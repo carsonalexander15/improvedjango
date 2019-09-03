@@ -16,3 +16,10 @@ Django admin login:
 
 
 This was a pre-created project and i have improved it. 
+
+**Project Resubmission**
+
+
+1. Created code to have less database queries
+2. Added a views tests in tests.py
+3. Re-applied README.md
